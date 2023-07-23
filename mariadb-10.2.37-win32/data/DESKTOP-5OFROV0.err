@@ -1,0 +1,965 @@
+2023-04-02  7:37:59 15032 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-02  7:37:59 15032 [Note] InnoDB: Uses event mutexes
+2023-04-02  7:37:59 15032 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-02  7:37:59 15032 [Note] InnoDB: Number of pools: 1
+2023-04-02  7:37:59 15032 [Note] InnoDB: Using generic crc32 instructions
+2023-04-02  7:37:59 15032 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-02  7:37:59 15032 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-02  7:38:01 15032 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-02  7:38:01 15032 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51453164
+2023-04-02  7:38:01 15032 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-02  7:38:01 15032 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-02  7:38:01 15032 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-02  7:38:01 15032 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-02  7:38:01 15032 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-02  7:38:01 15032 [Note] InnoDB: Waiting for purge to start
+2023-04-02  7:38:01 15032 [Note] InnoDB: 5.7.33 started; log sequence number 51453173
+2023-04-02  7:38:01 12172 [Note] InnoDB: Loading buffer pool(s) from C:\agendaintegral\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-02  7:38:01 12172 [Note] InnoDB: Buffer pool(s) load completed at 230402  7:38:01
+2023-04-02  7:38:01 15032 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-02  7:38:01 15032 [Note] Server socket created on IP: '::'.
+2023-04-02  7:38:01 15032 [Note] Reading of all Master_info entries succeeded
+2023-04-02  7:38:01 15032 [Note] Added new Master_info '' to hash table
+2023-04-02  7:38:01 15032 [Note] C:\agendaintegral\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 9199  mariadb.org binary distribution
+2023-04-02  8:00:49 3128 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-02  8:00:49 3128 [Note] InnoDB: Uses event mutexes
+2023-04-02  8:00:49 3128 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-02  8:00:49 3128 [Note] InnoDB: Number of pools: 1
+2023-04-02  8:00:49 3128 [Note] InnoDB: Using generic crc32 instructions
+2023-04-02  8:00:49 3128 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-02  8:00:49 3128 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-02  8:00:51 3128 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-02  8:00:51 3128 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500124
+2023-04-02  8:00:51 3128 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-02  8:00:51 3128 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-02  8:00:51 3128 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-02  8:00:51 3128 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-02  8:00:51 3128 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-02  8:00:51 3128 [Note] InnoDB: Waiting for purge to start
+2023-04-02  8:00:51 3128 [Note] InnoDB: 5.7.33 started; log sequence number 51500133
+2023-04-02  8:00:51 3932 [Note] InnoDB: Loading buffer pool(s) from C:\agendaintegral\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-02  8:00:51 3932 [Note] InnoDB: Buffer pool(s) load completed at 230402  8:00:51
+2023-04-02  8:00:51 3128 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-02  8:00:51 3128 [Note] Server socket created on IP: '::'.
+2023-04-02  8:00:51 3128 [Note] Reading of all Master_info entries succeeded
+2023-04-02  8:00:51 3128 [Note] Added new Master_info '' to hash table
+2023-04-02  8:00:51 3128 [Note] C:\agendaintegral\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 9199  mariadb.org binary distribution
+2023-04-02  8:52:52 11656 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-02  8:52:52 11656 [Note] InnoDB: Uses event mutexes
+2023-04-02  8:52:52 11656 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-02  8:52:52 11656 [Note] InnoDB: Number of pools: 1
+2023-04-02  8:52:52 11656 [Note] InnoDB: Using generic crc32 instructions
+2023-04-02  8:52:52 11656 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-02  8:52:52 11656 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-02  8:52:52 11656 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-02  8:52:52 11656 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500161
+2023-04-02  8:52:53 11656 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-02  8:52:53 11656 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-02  8:52:53 11656 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-02  8:52:53 11656 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-02  8:52:53 11656 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-02  8:52:53 11656 [Note] InnoDB: Waiting for purge to start
+2023-04-02  8:52:53 11656 [Note] InnoDB: 5.7.33 started; log sequence number 51500170
+2023-04-02  8:52:53 3068 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-02  8:52:53 3068 [Note] InnoDB: Buffer pool(s) load completed at 230402  8:52:53
+2023-04-02  8:52:53 11656 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-02  8:52:53 11656 [Note] Server socket created on IP: '::'.
+2023-04-02  8:52:53 11656 [Note] Reading of all Master_info entries succeeded
+2023-04-02  8:52:53 11656 [Note] Added new Master_info '' to hash table
+2023-04-02  8:52:53 11656 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3006  mariadb.org binary distribution
+2023-04-02  9:21:18 7524 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-02  9:21:18 7524 [Note] InnoDB: Uses event mutexes
+2023-04-02  9:21:18 7524 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-02  9:21:18 7524 [Note] InnoDB: Number of pools: 1
+2023-04-02  9:21:18 7524 [Note] InnoDB: Using generic crc32 instructions
+2023-04-02  9:21:18 7524 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-02  9:21:18 7524 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-02  9:21:20 7524 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-02  9:21:20 7524 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500198
+2023-04-02  9:21:20 7524 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-02  9:21:20 7524 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-02  9:21:20 7524 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-02  9:21:20 7524 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-02  9:21:20 7524 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-02  9:21:20 7524 [Note] InnoDB: Waiting for purge to start
+2023-04-02  9:21:20 7524 [Note] InnoDB: 5.7.33 started; log sequence number 51500207
+2023-04-02  9:21:20 11544 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-02  9:21:20 11544 [Note] InnoDB: Buffer pool(s) load completed at 230402  9:21:20
+2023-04-02  9:21:20 7524 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-02  9:21:20 7524 [Note] Server socket created on IP: '::'.
+2023-04-02  9:21:20 7524 [Note] Reading of all Master_info entries succeeded
+2023-04-02  9:21:20 7524 [Note] Added new Master_info '' to hash table
+2023-04-02  9:21:20 7524 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3006  mariadb.org binary distribution
+2023-04-02  9:28:44 12704 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-02  9:28:44 12704 [Note] InnoDB: Uses event mutexes
+2023-04-02  9:28:44 12704 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-02  9:28:44 12704 [Note] InnoDB: Number of pools: 1
+2023-04-02  9:28:44 12704 [Note] InnoDB: Using generic crc32 instructions
+2023-04-02  9:28:44 12704 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-02  9:28:44 12704 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-02  9:28:46 12704 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-02  9:28:46 12704 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500235
+2023-04-02  9:28:46 12704 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-02  9:28:46 12704 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-02  9:28:46 12704 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-02  9:28:46 12704 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-02  9:28:46 12704 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-02  9:28:46 12704 [Note] InnoDB: Waiting for purge to start
+2023-04-02  9:28:46 12704 [Note] InnoDB: 5.7.33 started; log sequence number 51500244
+2023-04-02  9:28:46 4160 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-02  9:28:46 4160 [Note] InnoDB: Buffer pool(s) load completed at 230402  9:28:46
+2023-04-02  9:28:46 12704 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-02  9:28:46 12704 [Note] Server socket created on IP: '::'.
+2023-04-02  9:28:46 12704 [Note] Reading of all Master_info entries succeeded
+2023-04-02  9:28:46 12704 [Note] Added new Master_info '' to hash table
+2023-04-02  9:28:46 12704 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_actions' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table 'drupal_actions' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_actions'
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_addresses_user' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table 'drupal_addresses_user' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_addresses_user'
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_autoassignrole' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table 'drupal_autoassignrole' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_autoassignrole'
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_blocks_roles' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table 'drupal_blocks_roles' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_blocks_roles'
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_boxes' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table 'drupal_boxes' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_boxes'
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_browscap' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table 'drupal_browscap' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_browscap'
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_cache' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table 'drupal_cache' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_cache'
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_cache_browscap' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table 'drupal_cache_browscap' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_cache_browscap'
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_cache_content' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table 'drupal_cache_content' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_cache_content'
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_cache_filter' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table 'drupal_cache_filter' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_cache_filter'
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_cache_form' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table 'drupal_cache_form' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_cache_form'
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_cache_location' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table 'drupal_cache_location' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_cache_location'
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_cache_menu' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table 'drupal_cache_menu' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_cache_menu'
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_cache_views' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [ERROR] mysqld.exe: Table 'drupal_cache_views' is marked as crashed and should be repaired
+2023-04-02  9:28:55 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_cache_views'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_cache_views_data' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_cache_views_data' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_cache_views_data'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_captcha_points' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_captcha_points' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_captcha_points'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_contact' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_contact' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_contact'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_field_cobrado_cobro' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_field_cobrado_cobro' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_field_cobrado_cobro'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_field_cobro_adicional' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_field_cobro_adicional' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_field_cobro_adicional'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_field_descripcion_cobros' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_field_descripcion_cobros' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_field_descripcion_cobros'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_field_dias_no_laborables' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_field_dias_no_laborables' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_field_dias_no_laborables'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_field_especialidad' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_field_especialidad' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_field_especialidad'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_field_fecha_menos_trabajo' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_field_fecha_menos_trabajo' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_field_fecha_menos_trabajo'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_field_feriados_fechas' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_field_feriados_fechas' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_field_feriados_fechas'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_field_hora_menos_trabajo_fin' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_field_hora_menos_trabajo_fin' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_field_hora_menos_trabajo_fin'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_field_hora_menos_trabajo_ini' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_field_hora_menos_trabajo_ini' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_field_hora_menos_trabajo_ini'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_field_hora_presencia' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_field_hora_presencia' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_field_hora_presencia'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_field_motivo_descripcion' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_field_motivo_descripcion' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_field_motivo_descripcion'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_field_motivo_menos_trabajo' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_field_motivo_menos_trabajo' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_field_motivo_menos_trabajo'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_field_razon_no_laborable' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_field_razon_no_laborable' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_field_razon_no_laborable'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_field_sub_lugares' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_field_sub_lugares' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_field_sub_lugares'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_field_sub_profesionales' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_field_sub_profesionales' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_field_sub_profesionales'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_group' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_group' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_group'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_group_fields' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_group_fields' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_group_fields'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_node_field' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_node_field' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_node_field'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_node_field_instance' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_node_field_instance' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_node_field_instance'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_type_cita' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_type_cita' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_type_cita'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_type_feriados' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_type_feriados' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_type_feriados'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_type_personal' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_type_personal' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_type_personal'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_type_profile' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_type_profile' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_type_profile'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_content_type_slider' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_content_type_slider' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_content_type_slider'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_date_format_types' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_date_format_types' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_date_format_types'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_date_formats' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_date_formats' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_date_formats'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_elysia_cron' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_elysia_cron' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_elysia_cron'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_files' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_files' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_files'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_filter_formats' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_filter_formats' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_filter_formats'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_filters' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_filters' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_filters'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_gmaps_icons' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table 'drupal_gmaps_icons' is marked as crashed and should be repaired
+2023-04-02  9:28:56 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_gmaps_icons'
+2023-04-02  9:28:56 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_gmaps_maps' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_gmaps_maps' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_gmaps_maps'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_gmaps_static_maps' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_gmaps_static_maps' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_gmaps_static_maps'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_i18n_strings' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_i18n_strings' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_i18n_strings'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_image' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_image' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_image'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_imagecache_action' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_imagecache_action' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_imagecache_action'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_imagecache_preset' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_imagecache_preset' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_imagecache_preset'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_languages' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_languages' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_languages'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_locales_source' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_locales_source' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_locales_source'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_locales_target' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_locales_target' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_locales_target'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_menu_custom' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_menu_custom' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_menu_custom'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_menu_links' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_menu_links' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_menu_links'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_menu_per_role' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_menu_per_role' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_menu_per_role'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_menu_router' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_menu_router' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_menu_router'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_node' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_node' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_node'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_node_access' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_node_access' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_node_access'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_node_comment_statistics' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_node_comment_statistics' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_node_comment_statistics'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_node_privacy_byrole' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_node_privacy_byrole' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_node_privacy_byrole'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_node_revisions' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_node_revisions' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_node_revisions'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_node_type' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_node_type' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_node_type'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_nodewords' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_nodewords' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_nodewords'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_password_expire' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_password_expire' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_password_expire'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_permission' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_permission' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_permission'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_role' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_role' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_role'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_services_endpoint' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_services_endpoint' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_services_endpoint'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_site_verify' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_site_verify' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_site_verify'
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_system' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [ERROR] mysqld.exe: Table 'drupal_system' is marked as crashed and should be repaired
+2023-04-02  9:28:57 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_system'
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_url_alias' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table 'drupal_url_alias' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_url_alias'
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_users' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table 'drupal_users' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_users'
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_variable' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table 'drupal_variable' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_variable'
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_views_display' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table 'drupal_views_display' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_views_display'
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_views_object_cache' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table 'drupal_views_object_cache' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_views_object_cache'
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_views_view' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table 'drupal_views_view' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_views_view'
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_wysiwyg' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table 'drupal_wysiwyg' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_wysiwyg'
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_xmlsitemap' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table 'drupal_xmlsitemap' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_xmlsitemap'
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_xmlsitemap_sitemap' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table 'drupal_xmlsitemap_sitemap' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [Warning] Checking table:   '.\agendain_agenda\drupal_xmlsitemap_sitemap'
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table '.\agendain_agenda\pago_esitef' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [ERROR] mysqld.exe: Table 'pago_esitef' is marked as crashed and should be repaired
+2023-04-02  9:28:58 6808 [Warning] Checking table:   '.\agendain_agenda\pago_esitef'
+2023-04-02  9:31:56 13260 [Warning] Access denied for user 'agendain_agenda'@'localhost' (using password: YES)
+2023-04-02 10:01:40 12504 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-02 10:01:40 12504 [Note] InnoDB: Uses event mutexes
+2023-04-02 10:01:40 12504 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-02 10:01:40 12504 [Note] InnoDB: Number of pools: 1
+2023-04-02 10:01:40 12504 [Note] InnoDB: Using generic crc32 instructions
+2023-04-02 10:01:40 12504 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-02 10:01:40 12504 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-02 10:01:40 12504 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-02 10:01:40 12504 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500272
+2023-04-02 10:01:41 12504 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-02 10:01:41 12504 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-02 10:01:41 12504 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-02 10:01:41 12504 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-02 10:01:41 12504 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-02 10:01:41 12504 [Note] InnoDB: Waiting for purge to start
+2023-04-02 10:01:41 12504 [Note] InnoDB: 5.7.33 started; log sequence number 51500281
+2023-04-02 10:01:41 3496 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-02 10:01:41 12504 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-02 10:01:41 3496 [Note] InnoDB: Buffer pool(s) load completed at 230402 10:01:41
+2023-04-02 10:01:41 12504 [Note] Server socket created on IP: '::'.
+2023-04-02 10:01:41 12504 [Note] Reading of all Master_info entries succeeded
+2023-04-02 10:01:41 12504 [Note] Added new Master_info '' to hash table
+2023-04-02 10:01:41 12504 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-04-02 10:03:37 9140 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-02 10:03:37 9140 [Note] InnoDB: Uses event mutexes
+2023-04-02 10:03:37 9140 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-02 10:03:37 9140 [Note] InnoDB: Number of pools: 1
+2023-04-02 10:03:37 9140 [Note] InnoDB: Using generic crc32 instructions
+2023-04-02 10:03:37 9140 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-02 10:03:37 9140 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-02 10:03:39 9140 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-02 10:03:39 9140 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500309
+2023-04-02 10:03:39 9140 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-02 10:03:39 9140 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-02 10:03:39 9140 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-02 10:03:39 9140 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-02 10:03:39 9140 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-02 10:03:39 9140 [Note] InnoDB: 5.7.33 started; log sequence number 51500318
+2023-04-02 10:03:39 9104 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-02 10:03:39 9104 [Note] InnoDB: Buffer pool(s) load completed at 230402 10:03:39
+2023-04-02 10:03:39 9140 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-02 10:03:39 9140 [Note] Server socket created on IP: '::'.
+2023-04-02 10:03:39 9140 [ERROR] mysqld.exe: Table '.\mysql\user' is marked as crashed and should be repaired
+2023-04-02 10:03:39 9140 [ERROR] mysqld.exe: Table 'user' is marked as crashed and should be repaired
+2023-04-02 10:03:39 9140 [Warning] Checking table:   '.\mysql\user'
+2023-04-02 10:03:39 9140 [ERROR] mysql.user: 1 client is using or hasn't closed the table properly
+2023-04-02 10:03:39 9140 [ERROR] mysqld.exe: Table '.\mysql\db' is marked as crashed and should be repaired
+2023-04-02 10:03:39 9140 [ERROR] mysqld.exe: Table 'db' is marked as crashed and should be repaired
+2023-04-02 10:03:39 9140 [Warning] Checking table:   '.\mysql\db'
+2023-04-02 10:03:39 9140 [ERROR] mysql.db: 1 client is using or hasn't closed the table properly
+2023-04-02 10:03:39 9140 [Note] Reading of all Master_info entries succeeded
+2023-04-02 10:03:39 9140 [Note] Added new Master_info '' to hash table
+2023-04-02 10:03:39 9140 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-04-02 10:30:44 3160 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-02 10:30:44 3160 [Note] InnoDB: Uses event mutexes
+2023-04-02 10:30:44 3160 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-02 10:30:44 3160 [Note] InnoDB: Number of pools: 1
+2023-04-02 10:30:44 3160 [Note] InnoDB: Using generic crc32 instructions
+2023-04-02 10:30:44 3160 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-02 10:30:44 3160 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-02 10:30:44 3160 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-02 10:30:44 3160 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500346
+2023-04-02 10:30:44 3160 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-02 10:30:44 3160 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-02 10:30:44 3160 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-02 10:30:44 3160 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-02 10:30:44 3160 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-02 10:30:44 3160 [Note] InnoDB: Waiting for purge to start
+2023-04-02 10:30:44 3160 [Note] InnoDB: 5.7.33 started; log sequence number 51500355
+2023-04-02 10:30:44 15176 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-02 10:30:44 15176 [Note] InnoDB: Buffer pool(s) load completed at 230402 10:30:44
+2023-04-02 10:30:44 3160 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-02 10:30:44 3160 [Note] Server socket created on IP: '::'.
+2023-04-02 10:30:44 3160 [Note] Reading of all Master_info entries succeeded
+2023-04-02 10:30:44 3160 [Note] Added new Master_info '' to hash table
+2023-04-02 10:30:44 3160 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-04-02 10:31:19 1212 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_cache' is marked as crashed and should be repaired
+2023-04-02 10:31:19 1212 [ERROR] mysqld.exe: Table 'drupal_cache' is marked as crashed and should be repaired
+2023-04-02 10:31:19 1212 [Warning] Checking table:   '.\agendain_agenda\drupal_cache'
+2023-04-02 10:31:19 1212 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_cache_browscap' is marked as crashed and should be repaired
+2023-04-02 10:31:19 1212 [ERROR] mysqld.exe: Table 'drupal_cache_browscap' is marked as crashed and should be repaired
+2023-04-02 10:31:19 1212 [Warning] Checking table:   '.\agendain_agenda\drupal_cache_browscap'
+2023-04-02 10:31:21 11164 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_cache_views_data' is marked as crashed and should be repaired
+2023-04-02 10:31:21 11164 [ERROR] mysqld.exe: Table 'drupal_cache_views_data' is marked as crashed and should be repaired
+2023-04-02 10:31:21 11164 [Warning] Checking table:   '.\agendain_agenda\drupal_cache_views_data'
+2023-04-02 10:32:19 2440 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-02 10:32:19 2440 [Note] InnoDB: Uses event mutexes
+2023-04-02 10:32:19 2440 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-02 10:32:19 2440 [Note] InnoDB: Number of pools: 1
+2023-04-02 10:32:19 2440 [Note] InnoDB: Using generic crc32 instructions
+2023-04-02 10:32:19 2440 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-02 10:32:19 2440 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-02 10:32:19 2440 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-02 10:32:19 2440 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500383
+2023-04-02 10:32:19 2440 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-02 10:32:19 2440 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-02 10:32:19 2440 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-02 10:32:19 2440 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-02 10:32:19 2440 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-02 10:32:20 2440 [Note] InnoDB: Waiting for purge to start
+2023-04-02 10:32:20 2440 [Note] InnoDB: 5.7.33 started; log sequence number 51500392
+2023-04-02 10:32:20 3676 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-02 10:32:20 3676 [Note] InnoDB: Buffer pool(s) load completed at 230402 10:32:20
+2023-04-02 10:32:20 2440 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-02 10:32:20 2440 [Note] Server socket created on IP: '::'.
+2023-04-02 10:32:20 2440 [Note] Reading of all Master_info entries succeeded
+2023-04-02 10:32:20 2440 [Note] Added new Master_info '' to hash table
+2023-04-02 10:32:20 2440 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-04-02 10:32:24 15900 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_sessions' is marked as crashed and should be repaired
+2023-04-02 10:32:24 15900 [ERROR] mysqld.exe: Table 'drupal_sessions' is marked as crashed and should be repaired
+2023-04-02 10:32:24 15900 [Warning] Checking table:   '.\agendain_agenda\drupal_sessions'
+2023-04-02 10:32:24 15900 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_cache' is marked as crashed and should be repaired
+2023-04-02 10:32:24 15900 [ERROR] mysqld.exe: Table 'drupal_cache' is marked as crashed and should be repaired
+2023-04-02 10:32:24 15900 [Warning] Checking table:   '.\agendain_agenda\drupal_cache'
+2023-04-03 15:31:52 16236 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-03 15:31:52 16236 [Note] InnoDB: Uses event mutexes
+2023-04-03 15:31:52 16236 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-03 15:31:52 16236 [Note] InnoDB: Number of pools: 1
+2023-04-03 15:31:52 16236 [Note] InnoDB: Using generic crc32 instructions
+2023-04-03 15:31:52 16236 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-03 15:31:52 16236 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-03 15:31:53 16236 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-03 15:31:53 16236 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500420
+2023-04-03 15:31:54 16236 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-03 15:31:54 16236 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-03 15:31:54 16236 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-03 15:31:54 16236 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-03 15:31:54 16236 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-03 15:31:54 16236 [Note] InnoDB: Waiting for purge to start
+2023-04-03 15:31:54 16236 [Note] InnoDB: 5.7.33 started; log sequence number 51500429
+2023-04-03 15:31:54 12472 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-03 15:31:54 12472 [Note] InnoDB: Buffer pool(s) load completed at 230403 15:31:54
+2023-04-03 15:31:55 16236 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-03 15:31:55 16236 [Note] Server socket created on IP: '::'.
+2023-04-03 15:31:55 16236 [Note] Reading of all Master_info entries succeeded
+2023-04-03 15:31:55 16236 [Note] Added new Master_info '' to hash table
+2023-04-03 15:31:55 16236 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-04-03 15:32:02 16044 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_cache' is marked as crashed and should be repaired
+2023-04-03 15:32:02 16044 [ERROR] mysqld.exe: Table 'drupal_cache' is marked as crashed and should be repaired
+2023-04-03 15:32:02 16044 [Warning] Checking table:   '.\agendain_agenda\drupal_cache'
+2023-04-03 15:32:11 16044 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_sessions' is marked as crashed and should be repaired
+2023-04-03 15:32:11 16044 [ERROR] mysqld.exe: Table 'drupal_sessions' is marked as crashed and should be repaired
+2023-04-03 15:32:11 16044 [Warning] Checking table:   '.\agendain_agenda\drupal_sessions'
+2023-04-03 15:54:29 15920 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-03 15:54:29 15920 [Note] InnoDB: Uses event mutexes
+2023-04-03 15:54:29 15920 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-03 15:54:29 15920 [Note] InnoDB: Number of pools: 1
+2023-04-03 15:54:29 15920 [Note] InnoDB: Using generic crc32 instructions
+2023-04-03 15:54:29 15920 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-03 15:54:29 15920 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-03 15:54:29 15920 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-03 15:54:29 15920 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500457
+2023-04-03 15:54:30 15920 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-03 15:54:30 15920 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-03 15:54:30 15920 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-03 15:54:30 15920 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-03 15:54:30 15920 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-03 15:54:30 15920 [Note] InnoDB: Waiting for purge to start
+2023-04-03 15:54:30 15920 [Note] InnoDB: 5.7.33 started; log sequence number 51500466
+2023-04-03 15:54:30 6412 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-03 15:54:30 6412 [Note] InnoDB: Buffer pool(s) load completed at 230403 15:54:30
+2023-04-03 15:54:30 15920 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-03 15:54:30 15920 [Note] Server socket created on IP: '::'.
+2023-04-03 15:54:30 15920 [Note] Reading of all Master_info entries succeeded
+2023-04-03 15:54:30 15920 [Note] Added new Master_info '' to hash table
+2023-04-03 15:54:30 15920 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-04-03 17:47:07 13592 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-03 17:47:07 13592 [Note] InnoDB: Uses event mutexes
+2023-04-03 17:47:07 13592 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-03 17:47:07 13592 [Note] InnoDB: Number of pools: 1
+2023-04-03 17:47:07 13592 [Note] InnoDB: Using generic crc32 instructions
+2023-04-03 17:47:07 13592 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-03 17:47:07 13592 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-03 17:47:08 13592 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-03 17:47:08 13592 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500494
+2023-04-03 17:47:09 13592 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-03 17:47:09 13592 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-03 17:47:09 13592 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-03 17:47:09 13592 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-03 17:47:10 13592 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-03 17:47:10 13592 [Note] InnoDB: Waiting for purge to start
+2023-04-03 17:47:10 13592 [Note] InnoDB: 5.7.33 started; log sequence number 51500503
+2023-04-03 17:47:10 6832 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-03 17:47:10 6832 [Note] InnoDB: Buffer pool(s) load completed at 230403 17:47:10
+2023-04-03 17:47:10 13592 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-03 17:47:10 13592 [Note] Server socket created on IP: '::'.
+2023-04-03 17:47:10 13592 [Note] Reading of all Master_info entries succeeded
+2023-04-03 17:47:10 13592 [Note] Added new Master_info '' to hash table
+2023-04-03 17:47:10 13592 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-04-03 17:47:19 6644 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_sessions' is marked as crashed and should be repaired
+2023-04-03 17:47:19 6644 [ERROR] mysqld.exe: Table 'drupal_sessions' is marked as crashed and should be repaired
+2023-04-03 17:47:19 6644 [Warning] Checking table:   '.\agendain_agenda\drupal_sessions'
+2023-04-03 17:47:19 6644 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_cache' is marked as crashed and should be repaired
+2023-04-03 17:47:19 6644 [ERROR] mysqld.exe: Table 'drupal_cache' is marked as crashed and should be repaired
+2023-04-03 17:47:19 6644 [Warning] Checking table:   '.\agendain_agenda\drupal_cache'
+2023-04-03 17:47:19 6644 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_cache_browscap' is marked as crashed and should be repaired
+2023-04-03 17:47:19 6644 [ERROR] mysqld.exe: Table 'drupal_cache_browscap' is marked as crashed and should be repaired
+2023-04-03 17:47:19 6644 [Warning] Checking table:   '.\agendain_agenda\drupal_cache_browscap'
+2023-04-10 23:04:23 6616 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-10 23:04:23 6616 [Note] InnoDB: Uses event mutexes
+2023-04-10 23:04:23 6616 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-10 23:04:23 6616 [Note] InnoDB: Number of pools: 1
+2023-04-10 23:04:23 6616 [Note] InnoDB: Using generic crc32 instructions
+2023-04-10 23:04:23 6616 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-10 23:04:23 6616 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-10 23:04:23 6616 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-10 23:04:23 6616 [Note] InnoDB: The log sequence number 1615526 in the system tablespace does not match the log sequence number 51500556 in the ib_logfiles!
+2023-04-10 23:04:25 6616 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-10 23:04:25 6616 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-10 23:04:25 6616 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-10 23:04:25 6616 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-10 23:04:25 6616 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-10 23:04:25 6616 [Note] InnoDB: Waiting for purge to start
+2023-04-10 23:04:25 6616 [Note] InnoDB: 5.7.33 started; log sequence number 51500556
+2023-04-10 23:04:25 7896 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-10 23:04:25 7896 [Note] InnoDB: Buffer pool(s) load completed at 230410 23:04:25
+2023-04-10 23:04:25 6616 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-10 23:04:25 6616 [Note] Server socket created on IP: '::'.
+2023-04-10 23:04:25 6616 [Note] Reading of all Master_info entries succeeded
+2023-04-10 23:04:25 6616 [Note] Added new Master_info '' to hash table
+2023-04-10 23:04:25 6616 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-04-11 19:29:14 4824 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-11 19:29:14 4824 [Note] InnoDB: Uses event mutexes
+2023-04-11 19:29:14 4824 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-11 19:29:14 4824 [Note] InnoDB: Number of pools: 1
+2023-04-11 19:29:14 4824 [Note] InnoDB: Using generic crc32 instructions
+2023-04-11 19:29:14 4824 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-11 19:29:14 4824 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-11 19:29:15 4824 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-11 19:29:15 4824 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500575
+2023-04-11 19:29:15 4824 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-11 19:29:15 4824 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-11 19:29:15 4824 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-11 19:29:15 4824 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-11 19:29:15 4824 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-11 19:29:15 4824 [Note] InnoDB: Waiting for purge to start
+2023-04-11 19:29:15 4824 [Note] InnoDB: 5.7.33 started; log sequence number 51500584
+2023-04-11 19:29:16 328 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-11 19:29:16 328 [Note] InnoDB: Buffer pool(s) load completed at 230411 19:29:16
+2023-04-11 19:29:16 4824 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-11 19:29:16 4824 [Note] Server socket created on IP: '::'.
+2023-04-11 19:29:16 4824 [Note] Reading of all Master_info entries succeeded
+2023-04-11 19:29:16 4824 [Note] Added new Master_info '' to hash table
+2023-04-11 19:29:16 4824 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-04-12  7:35:09 7812 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-12  7:35:09 7812 [Note] InnoDB: Uses event mutexes
+2023-04-12  7:35:09 7812 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-12  7:35:09 7812 [Note] InnoDB: Number of pools: 1
+2023-04-12  7:35:10 7812 [Note] InnoDB: Using generic crc32 instructions
+2023-04-12  7:35:10 7812 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-12  7:35:10 7812 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-12  7:35:10 7812 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-12  7:35:10 7812 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500612
+2023-04-12  7:35:10 7812 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-12  7:35:10 7812 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-12  7:35:10 7812 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-12  7:35:10 7812 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-12  7:35:10 7812 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-12  7:35:10 7812 [Note] InnoDB: Waiting for purge to start
+2023-04-12  7:35:10 7812 [Note] InnoDB: 5.7.33 started; log sequence number 51500621
+2023-04-12  7:35:10 7560 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-12  7:35:10 7560 [Note] InnoDB: Buffer pool(s) load completed at 230412  7:35:10
+2023-04-12  7:35:10 7812 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-12  7:35:10 7812 [Note] Server socket created on IP: '::'.
+2023-04-12  7:35:10 7812 [Note] Reading of all Master_info entries succeeded
+2023-04-12  7:35:10 7812 [Note] Added new Master_info '' to hash table
+2023-04-12  7:35:10 7812 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-04-12 11:18:07 8604 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-12 11:18:07 8604 [Note] InnoDB: Uses event mutexes
+2023-04-12 11:18:07 8604 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-12 11:18:07 8604 [Note] InnoDB: Number of pools: 1
+2023-04-12 11:18:07 8604 [Note] InnoDB: Using generic crc32 instructions
+2023-04-12 11:18:07 8604 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-12 11:18:07 8604 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-12 11:18:07 8604 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-12 11:18:07 8604 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500649
+2023-04-12 11:18:08 8604 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-12 11:18:08 8604 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-12 11:18:08 8604 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-12 11:18:08 8604 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-12 11:18:08 8604 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-12 11:18:08 8604 [Note] InnoDB: Waiting for purge to start
+2023-04-12 11:18:08 8604 [Note] InnoDB: 5.7.33 started; log sequence number 51500658
+2023-04-12 11:18:08 9712 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-12 11:18:08 9712 [Note] InnoDB: Buffer pool(s) load completed at 230412 11:18:08
+2023-04-12 11:18:08 8604 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-12 11:18:08 8604 [Note] Server socket created on IP: '::'.
+2023-04-12 11:18:09 8604 [Note] Reading of all Master_info entries succeeded
+2023-04-12 11:18:09 8604 [Note] Added new Master_info '' to hash table
+2023-04-12 11:18:09 8604 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-04-12 11:24:59 8032 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-12 11:24:59 8032 [Note] InnoDB: Uses event mutexes
+2023-04-12 11:24:59 8032 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-12 11:24:59 8032 [Note] InnoDB: Number of pools: 1
+2023-04-12 11:24:59 8032 [Note] InnoDB: Using generic crc32 instructions
+2023-04-12 11:24:59 8032 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-12 11:25:00 8032 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-12 11:25:00 8032 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-12 11:25:00 8032 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500686
+2023-04-12 11:25:05 8032 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-12 11:25:05 8032 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-12 11:25:05 8032 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-12 11:25:05 8032 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-12 11:25:05 8032 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-12 11:25:05 8032 [Note] InnoDB: Waiting for purge to start
+2023-04-12 11:25:05 8032 [Note] InnoDB: Waiting for purge to start
+2023-04-12 11:25:05 8032 [Note] InnoDB: 5.7.33 started; log sequence number 51500695
+2023-04-12 11:25:05 9996 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-12 11:25:06 9996 [Note] InnoDB: Buffer pool(s) load completed at 230412 11:25:06
+2023-04-12 11:25:06 8032 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-12 11:25:06 8032 [Note] Server socket created on IP: '::'.
+2023-04-12 11:25:07 8032 [Note] Reading of all Master_info entries succeeded
+2023-04-12 11:25:07 8032 [Note] Added new Master_info '' to hash table
+2023-04-12 11:25:07 8032 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-04-12 23:23:14 8420 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-12 23:23:14 8420 [Note] InnoDB: Uses event mutexes
+2023-04-12 23:23:14 8420 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-12 23:23:15 8420 [Note] InnoDB: Number of pools: 1
+2023-04-12 23:23:15 8420 [Note] InnoDB: Using generic crc32 instructions
+2023-04-12 23:23:15 8420 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-12 23:23:15 8420 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-12 23:23:17 8420 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-12 23:23:17 8420 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500723
+2023-04-12 23:23:19 8420 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-12 23:23:19 8420 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-12 23:23:19 8420 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-12 23:23:19 8420 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-12 23:23:19 8420 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-12 23:23:19 8420 [Note] InnoDB: Waiting for purge to start
+2023-04-12 23:23:19 8420 [Note] InnoDB: Waiting for purge to start
+2023-04-12 23:23:20 8420 [Note] InnoDB: Waiting for purge to start
+2023-04-12 23:23:20 8420 [Note] InnoDB: Waiting for purge to start
+2023-04-12 23:23:20 8420 [Note] InnoDB: Waiting for purge to start
+2023-04-12 23:23:20 8420 [Note] InnoDB: Waiting for purge to start
+2023-04-12 23:23:20 8420 [Note] InnoDB: Waiting for purge to start
+2023-04-12 23:23:20 8420 [Note] InnoDB: Waiting for purge to start
+2023-04-12 23:23:20 8420 [Note] InnoDB: 5.7.33 started; log sequence number 51500732
+2023-04-12 23:23:21 9968 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-12 23:23:21 9968 [Note] InnoDB: Buffer pool(s) load completed at 230412 23:23:21
+2023-04-12 23:23:21 8420 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-12 23:23:21 8420 [Note] Server socket created on IP: '::'.
+2023-04-12 23:23:22 8420 [Note] Reading of all Master_info entries succeeded
+2023-04-12 23:23:22 8420 [Note] Added new Master_info '' to hash table
+2023-04-12 23:23:22 8420 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-04-13 20:00:07 15392 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-13 20:00:07 15392 [Note] InnoDB: Uses event mutexes
+2023-04-13 20:00:07 15392 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-13 20:00:07 15392 [Note] InnoDB: Number of pools: 1
+2023-04-13 20:00:07 15392 [Note] InnoDB: Using generic crc32 instructions
+2023-04-13 20:00:07 15392 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-13 20:00:07 15392 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-13 20:00:08 15392 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-13 20:00:08 15392 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500760
+2023-04-13 20:00:10 15392 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-13 20:00:10 15392 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-13 20:00:10 15392 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-13 20:00:10 15392 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-13 20:00:10 15392 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-13 20:00:10 15392 [Note] InnoDB: Waiting for purge to start
+2023-04-13 20:00:10 15392 [Note] InnoDB: 5.7.33 started; log sequence number 51500769
+2023-04-13 20:00:10 7120 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-13 20:00:10 7120 [Note] InnoDB: Buffer pool(s) load completed at 230413 20:00:10
+2023-04-13 20:00:10 15392 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-13 20:00:10 15392 [Note] Server socket created on IP: '::'.
+2023-04-13 20:00:10 15392 [Note] Reading of all Master_info entries succeeded
+2023-04-13 20:00:10 15392 [Note] Added new Master_info '' to hash table
+2023-04-13 20:00:10 15392 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-04-13 20:00:32 8496 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_cache' is marked as crashed and should be repaired
+2023-04-13 20:00:32 8496 [ERROR] mysqld.exe: Table 'drupal_cache' is marked as crashed and should be repaired
+2023-04-13 20:00:32 8496 [Warning] Checking table:   '.\agendain_agenda\drupal_cache'
+2023-04-13 20:00:34 8496 [ERROR] mysqld.exe: Table '.\agendain_agenda\drupal_sessions' is marked as crashed and should be repaired
+2023-04-13 20:00:34 8496 [ERROR] mysqld.exe: Table 'drupal_sessions' is marked as crashed and should be repaired
+2023-04-13 20:00:34 8496 [Warning] Checking table:   '.\agendain_agenda\drupal_sessions'
+2023-04-13 20:05:33 4680 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-13 20:05:33 4680 [Note] InnoDB: Uses event mutexes
+2023-04-13 20:05:33 4680 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-13 20:05:33 4680 [Note] InnoDB: Number of pools: 1
+2023-04-13 20:05:33 4680 [Note] InnoDB: Using generic crc32 instructions
+2023-04-13 20:05:33 4680 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-13 20:05:33 4680 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-13 20:05:34 4680 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-13 20:05:34 4680 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500797
+2023-04-13 20:05:36 4680 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-13 20:05:36 4680 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-13 20:05:36 4680 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-13 20:05:36 4680 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-13 20:05:36 4680 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-13 20:05:36 4680 [Note] InnoDB: Waiting for purge to start
+2023-04-13 20:05:36 4680 [Note] InnoDB: 5.7.33 started; log sequence number 51500806
+2023-04-13 20:05:36 9848 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-13 20:05:36 4680 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-13 20:05:36 4680 [Note] Server socket created on IP: '::'.
+2023-04-13 20:05:36 9848 [Note] InnoDB: Buffer pool(s) load completed at 230413 20:05:36
+2023-04-13 20:05:36 4680 [Note] Reading of all Master_info entries succeeded
+2023-04-13 20:05:36 4680 [Note] Added new Master_info '' to hash table
+2023-04-13 20:05:36 4680 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-04-13 21:35:56 15252 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-13 21:35:56 15252 [Note] InnoDB: Uses event mutexes
+2023-04-13 21:35:56 15252 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-13 21:35:56 15252 [Note] InnoDB: Number of pools: 1
+2023-04-13 21:35:56 15252 [Note] InnoDB: Using generic crc32 instructions
+2023-04-13 21:35:56 15252 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-13 21:35:56 15252 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-13 21:35:58 15252 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-13 21:35:58 15252 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500834
+2023-04-13 21:36:00 15252 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-13 21:36:00 15252 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-13 21:36:00 15252 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-13 21:36:00 15252 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-13 21:36:00 15252 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-13 21:36:00 15252 [Note] InnoDB: Waiting for purge to start
+2023-04-13 21:36:00 15252 [Note] InnoDB: 5.7.33 started; log sequence number 51500843
+2023-04-13 21:36:00 16484 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-13 21:36:00 16484 [Note] InnoDB: Buffer pool(s) load completed at 230413 21:36:00
+2023-04-13 21:36:00 15252 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-13 21:36:00 15252 [Note] Server socket created on IP: '::'.
+2023-04-13 21:36:00 15252 [Note] Reading of all Master_info entries succeeded
+2023-04-13 21:36:00 15252 [Note] Added new Master_info '' to hash table
+2023-04-13 21:36:00 15252 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-04-13 21:41:47 14992 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-13 21:41:47 14992 [Note] InnoDB: Uses event mutexes
+2023-04-13 21:41:47 14992 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-13 21:41:47 14992 [Note] InnoDB: Number of pools: 1
+2023-04-13 21:41:47 14992 [Note] InnoDB: Using generic crc32 instructions
+2023-04-13 21:41:47 14992 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-13 21:41:47 14992 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-13 21:41:47 14992 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2023-04-13 21:41:47 14992 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2023-04-13 21:41:47 14992 [ERROR] InnoDB: Plugin initialization aborted with error Generic error
+2023-04-13 21:41:48 14992 [Note] InnoDB: Starting shutdown...
+2023-04-13 21:41:48 14992 [ERROR] Plugin 'InnoDB' init function returned error.
+2023-04-13 21:41:48 14992 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2023-04-13 21:41:48 14992 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-13 21:41:48 14992 [ERROR] Unknown/unsupported storage engine: InnoDB
+2023-04-13 21:41:48 14992 [ERROR] Aborting
+
+2023-04-13 21:44:19 17240 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-13 21:44:19 17240 [Note] InnoDB: Uses event mutexes
+2023-04-13 21:44:19 17240 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-13 21:44:19 17240 [Note] InnoDB: Number of pools: 1
+2023-04-13 21:44:19 17240 [Note] InnoDB: Using generic crc32 instructions
+2023-04-13 21:44:19 17240 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-13 21:44:19 17240 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-13 21:44:19 17240 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2023-04-13 21:44:19 17240 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2023-04-13 21:44:19 17240 [ERROR] InnoDB: Plugin initialization aborted with error Generic error
+2023-04-13 21:44:19 17240 [Note] InnoDB: Starting shutdown...
+2023-04-13 21:44:19 17240 [ERROR] Plugin 'InnoDB' init function returned error.
+2023-04-13 21:44:19 17240 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2023-04-13 21:44:19 17240 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-13 21:44:19 17240 [ERROR] Unknown/unsupported storage engine: InnoDB
+2023-04-13 21:44:19 17240 [ERROR] Aborting
+
+2023-04-13 21:51:13 4076 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-13 21:51:13 4076 [Note] InnoDB: Uses event mutexes
+2023-04-13 21:51:13 4076 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-13 21:51:13 4076 [Note] InnoDB: Number of pools: 1
+2023-04-13 21:51:13 4076 [Note] InnoDB: Using generic crc32 instructions
+2023-04-13 21:51:13 4076 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-13 21:51:13 4076 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-13 21:51:13 4076 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-13 21:51:13 4076 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51500871
+2023-04-13 21:51:15 4076 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-13 21:51:15 4076 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-13 21:51:15 4076 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-13 21:51:15 4076 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-13 21:51:15 4076 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-13 21:51:15 4076 [Note] InnoDB: Waiting for purge to start
+2023-04-13 21:51:15 4076 [Note] InnoDB: 5.7.33 started; log sequence number 51500880
+2023-04-13 21:51:15 9892 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-13 21:51:15 4076 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-13 21:51:15 4076 [Note] Server socket created on IP: '::'.
+2023-04-13 21:51:15 9892 [Note] InnoDB: Buffer pool(s) load completed at 230413 21:51:15
+2023-04-13 21:51:15 4076 [Note] Reading of all Master_info entries succeeded
+2023-04-13 21:51:15 4076 [Note] Added new Master_info '' to hash table
+2023-04-13 21:51:15 4076 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-04-13 21:56:10 4860 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-13 21:56:10 4860 [Note] InnoDB: Uses event mutexes
+2023-04-13 21:56:10 4860 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-13 21:56:10 4860 [Note] InnoDB: Number of pools: 1
+2023-04-13 21:56:10 4860 [Note] InnoDB: Using generic crc32 instructions
+2023-04-13 21:56:10 4860 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-13 21:56:10 4860 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-13 21:56:10 4860 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2023-04-13 21:56:10 4860 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2023-04-13 21:56:10 4860 [ERROR] InnoDB: Plugin initialization aborted with error Generic error
+2023-04-13 21:56:10 4860 [Note] InnoDB: Starting shutdown...
+2023-04-13 21:56:10 4860 [ERROR] Plugin 'InnoDB' init function returned error.
+2023-04-13 21:56:10 4860 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2023-04-13 21:56:10 4860 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-13 21:56:10 4860 [ERROR] Unknown/unsupported storage engine: InnoDB
+2023-04-13 21:56:10 4860 [ERROR] Aborting
+
+2023-04-13 21:56:29 2964 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-13 21:56:29 2964 [Note] InnoDB: Uses event mutexes
+2023-04-13 21:56:29 2964 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-13 21:56:29 2964 [Note] InnoDB: Number of pools: 1
+2023-04-13 21:56:29 2964 [Note] InnoDB: Using generic crc32 instructions
+2023-04-13 21:56:29 2964 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-13 21:56:30 2964 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-13 21:56:31 2964 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-13 21:56:31 2964 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51510500
+2023-04-13 21:56:33 2964 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-13 21:56:33 2964 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-13 21:56:33 2964 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-13 21:56:33 2964 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-13 21:56:33 2964 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-13 21:56:33 2964 [Note] InnoDB: Waiting for purge to start
+2023-04-13 21:56:33 2964 [Note] InnoDB: 5.7.33 started; log sequence number 51510509
+2023-04-13 21:56:33 12000 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-13 21:56:33 12000 [Note] InnoDB: Buffer pool(s) load completed at 230413 21:56:33
+2023-04-13 21:56:33 2964 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-13 21:56:33 2964 [Note] Server socket created on IP: '::'.
+2023-04-13 21:56:33 2964 [Note] Reading of all Master_info entries succeeded
+2023-04-13 21:56:33 2964 [Note] Added new Master_info '' to hash table
+2023-04-13 21:56:33 2964 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2023-04-13 21:59:56 4488 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-13 21:59:56 4488 [Note] InnoDB: Uses event mutexes
+2023-04-13 21:59:56 4488 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-13 21:59:56 4488 [Note] InnoDB: Number of pools: 1
+2023-04-13 21:59:56 4488 [Note] InnoDB: Using generic crc32 instructions
+2023-04-13 21:59:56 4488 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-13 21:59:56 4488 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-13 21:59:56 4488 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2023-04-13 21:59:56 4488 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2023-04-13 21:59:56 4488 [ERROR] InnoDB: Plugin initialization aborted with error Generic error
+2023-04-13 21:59:56 4488 [Note] InnoDB: Starting shutdown...
+2023-04-13 21:59:56 4488 [ERROR] Plugin 'InnoDB' init function returned error.
+2023-04-13 21:59:56 4488 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2023-04-13 21:59:56 4488 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-13 21:59:56 4488 [ERROR] Unknown/unsupported storage engine: InnoDB
+2023-04-13 21:59:56 4488 [ERROR] Aborting
+
+2023-04-13 22:34:10 9736 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-13 22:34:10 9736 [Note] InnoDB: Uses event mutexes
+2023-04-13 22:34:10 9736 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-13 22:34:10 9736 [Note] InnoDB: Number of pools: 1
+2023-04-13 22:34:10 9736 [Note] InnoDB: Using generic crc32 instructions
+2023-04-13 22:34:10 9736 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-13 22:34:10 9736 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-13 22:34:10 9736 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2023-04-13 22:34:10 9736 [ERROR] InnoDB: The innodb_system data file 'ibdata1' must be writable
+2023-04-13 22:34:10 9736 [ERROR] InnoDB: Plugin initialization aborted with error Generic error
+2023-04-13 22:34:10 9736 [Note] InnoDB: Starting shutdown...
+2023-04-13 22:34:10 9736 [ERROR] Plugin 'InnoDB' init function returned error.
+2023-04-13 22:34:10 9736 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2023-04-13 22:34:10 9736 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-13 22:34:10 9736 [ERROR] Unknown/unsupported storage engine: InnoDB
+2023-04-13 22:34:10 9736 [ERROR] Aborting
+
+2023-04-13 22:39:19 772 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-04-13 22:39:19 772 [Note] InnoDB: Uses event mutexes
+2023-04-13 22:39:19 772 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-04-13 22:39:19 772 [Note] InnoDB: Number of pools: 1
+2023-04-13 22:39:19 772 [Note] InnoDB: Using generic crc32 instructions
+2023-04-13 22:39:19 772 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-04-13 22:39:19 772 [Note] InnoDB: Completed initialization of buffer pool
+2023-04-13 22:39:20 772 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-04-13 22:39:20 772 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51650921
+2023-04-13 22:39:20 772 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-04-13 22:39:20 772 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-04-13 22:39:20 772 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-04-13 22:39:20 772 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-04-13 22:39:20 772 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-04-13 22:39:20 772 [Note] InnoDB: Waiting for purge to start
+2023-04-13 22:39:20 772 [Note] InnoDB: 5.7.33 started; log sequence number 51650930
+2023-04-13 22:39:20 16996 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-04-13 22:39:20 16996 [Note] InnoDB: Buffer pool(s) load completed at 230413 22:39:20
+2023-04-13 22:39:20 772 [Note] Plugin 'FEEDBACK' is disabled.
+2023-04-13 22:39:20 772 [Note] Server socket created on IP: '::'.
+2023-04-13 22:39:21 772 [Note] Reading of all Master_info entries succeeded
+2023-04-13 22:39:21 772 [Note] Added new Master_info '' to hash table
+2023-04-13 22:39:21 772 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution

@@ -1,0 +1,27 @@
+TODO es para 32bits
+
+--
+*poner_mariadb* ( arranca la base de datos mariadb )
+*quitar_mariadb* ( tumba el programa de mariadb )
+
+el puerto es el 3306
+C:\mmetodology\mariadb-10.2.37-win32\my.ini
+
+--
+*phpmyadmin* ( muestra el programa PHPMYADMIN )
+usuario
+ROOT
+
+clave
+en blanco
+
+--
+*ver_web_index* ( ejecutar el contenido de la carpeta WEB, index.php )
+
+index.php ( borra los datos de la tabla, lee el excel, carga los datos a la tabla, muestra un SQL de la tabla, orden inverso, orden normal )
+ver.php ( muestra los datos de la Hoja de Excel )
+
+--
+NOtepad++ ( Editor portable )
+
+

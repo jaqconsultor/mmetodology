@@ -1,0 +1,70 @@
+2023-06-23 10:34:24 7836 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-06-23 10:34:24 7836 [Note] InnoDB: Uses event mutexes
+2023-06-23 10:34:24 7836 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-06-23 10:34:24 7836 [Note] InnoDB: Number of pools: 1
+2023-06-23 10:34:24 7836 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-06-23 10:34:24 7836 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-06-23 10:34:24 7836 [Note] InnoDB: Completed initialization of buffer pool
+2023-06-23 10:34:24 7836 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-06-23 10:34:24 7836 [Note] InnoDB: Starting crash recovery from checkpoint LSN=51650958
+2023-06-23 10:34:25 7836 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-06-23 10:34:25 7836 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2023-06-23 10:34:25 7836 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-06-23 10:34:25 7836 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-06-23 10:34:25 7836 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-06-23 10:34:25 7836 [Note] InnoDB: Waiting for purge to start
+2023-06-23 10:34:25 7836 [Note] InnoDB: 5.7.33 started; log sequence number 51650967
+2023-06-23 10:34:25 1640 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-06-23 10:34:25 1640 [Note] InnoDB: Buffer pool(s) load completed at 230623 10:34:25
+2023-06-23 10:34:25 7836 [Note] Plugin 'FEEDBACK' is disabled.
+2023-06-23 10:34:26 7836 [Note] Server socket created on IP: '::'.
+2023-06-23 10:34:26 7836 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2023-06-23 10:34:26 7836 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2023-06-23 10:34:26 7836 [ERROR] Aborting
+
+2023-06-23 10:34:49 13980 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-06-23 10:34:49 13980 [Note] InnoDB: Uses event mutexes
+2023-06-23 10:34:49 13980 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-06-23 10:34:49 13980 [Note] InnoDB: Number of pools: 1
+2023-06-23 10:34:49 13980 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-06-23 10:34:49 13980 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-06-23 10:34:49 13980 [Note] InnoDB: Completed initialization of buffer pool
+2023-06-23 10:34:49 13980 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-06-23 10:34:51 13980 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-06-23 10:34:51 13980 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-06-23 10:34:51 13980 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-06-23 10:34:51 13980 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-06-23 10:34:51 13980 [Note] InnoDB: Waiting for purge to start
+2023-06-23 10:34:51 13980 [Note] InnoDB: 5.7.33 started; log sequence number 51650995
+2023-06-23 10:34:51 14104 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-06-23 10:34:51 13980 [Note] Plugin 'FEEDBACK' is disabled.
+2023-06-23 10:34:51 13980 [Note] Server socket created on IP: '::'.
+2023-06-23 10:34:51 14104 [Note] InnoDB: Buffer pool(s) load completed at 230623 10:34:51
+2023-06-23 10:34:51 13980 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2023-06-23 10:34:51 13980 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2023-06-23 10:34:51 13980 [ERROR] Aborting
+
+2023-06-23 10:36:42 9648 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2023-06-23 10:36:42 9648 [Note] InnoDB: Uses event mutexes
+2023-06-23 10:36:42 9648 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2023-06-23 10:36:42 9648 [Note] InnoDB: Number of pools: 1
+2023-06-23 10:36:42 9648 [Note] InnoDB: Using SSE2 crc32 instructions
+2023-06-23 10:36:42 9648 [Note] InnoDB: Initializing buffer pool, total size = 384M, instances = 1, chunk size = 128M
+2023-06-23 10:36:42 9648 [Note] InnoDB: Completed initialization of buffer pool
+2023-06-23 10:36:42 9648 [Note] InnoDB: Highest supported file format is Barracuda.
+2023-06-23 10:36:43 9648 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2023-06-23 10:36:43 9648 [Note] InnoDB: Creating shared tablespace for temporary tables
+2023-06-23 10:36:43 9648 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2023-06-23 10:36:43 9648 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2023-06-23 10:36:43 9648 [Note] InnoDB: Waiting for purge to start
+2023-06-23 10:36:43 9648 [Note] InnoDB: 5.7.33 started; log sequence number 51651014
+2023-06-23 10:36:43 10428 [Note] InnoDB: Loading buffer pool(s) from C:\mmetodology\mariadb-10.2.37-win32\data\ib_buffer_pool
+2023-06-23 10:36:43 10428 [Note] InnoDB: Buffer pool(s) load completed at 230623 10:36:43
+2023-06-23 10:36:43 9648 [Note] Plugin 'FEEDBACK' is disabled.
+2023-06-23 10:36:43 9648 [Note] Server socket created on IP: '::'.
+2023-06-23 10:36:44 9648 [Note] Reading of all Master_info entries succeeded
+2023-06-23 10:36:44 9648 [Note] Added new Master_info '' to hash table
+2023-06-23 10:36:44 9648 [Note] C:\mmetodology\mariadb-10.2.37-win32\bin\mysqld.exe: ready for connections.
+Version: '10.2.37-MariaDB'  socket: ''  port: 3307  mariadb.org binary distribution
